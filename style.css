@@ -1,27 +1,22 @@
-body{
+body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #111;
+    background-color: #111111;
     font-family: 'roboto condensed', 'sans-serif';
     line-height: 1.5;
 }
 
 #Menu {
     position: relative;
-    border: none;
     border-radius: 10em;
-    display: flex;
+    display: -webkit-box;
     list-style: none;
     background: #1111;
     box-shadow: 20px 20px 20px #000000;
     border: 2px solid white;
     padding: 11px;
 }
-
-/* li{
-    border-right: 1px solid #bbb;
-} */
 
 li a {
     font-size: medium;
@@ -34,5 +29,3 @@ li a:hover {
     background-color: rgb(46, 45, 45);
     color: white;
 }
-
-
