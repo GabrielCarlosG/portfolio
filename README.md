@@ -17,6 +17,9 @@ Crud utilizando PHP + HTML + CSS, com conexão com banco MySQL <br><hr>
 [Tecblog](https://github.com/GabrielCarlosG/TecBlog) <br>
 página Estática, com HTML e CSS <br><hr>
 
+[Curso HTML](https://github.com/GabrielCarlosG/Curso-HTML) <br>
+Curso básico de HTML<br><hr>
+
 Country: Brasil<br>
 State: Pernambuco<br>
 Developer: Carlos Gabriel Gomes Amorim<br>
